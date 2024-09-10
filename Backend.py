@@ -2,7 +2,7 @@ import sqlite3
 
 
 # backend
-# backend is being called from the frontend for each function
+# backend is being called from the frontend for each functio
 
 # stockData has to create a table if there's none because it has to record the data within the database.
 def stockData():
